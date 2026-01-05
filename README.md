@@ -1,0 +1,1 @@
+Scaleout Edge mockup
